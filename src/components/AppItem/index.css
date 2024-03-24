@@ -1,0 +1,16 @@
+.list-card {
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 4px;
+  height: 150px;
+  width: 150px;
+}
+
+.image {
+  width: 50px;
+}

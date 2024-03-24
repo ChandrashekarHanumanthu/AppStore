@@ -1,0 +1,9 @@
+.list-item {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.btn {
+  border: none;
+  background-color: transparent;
+}
